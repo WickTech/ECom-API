@@ -26,3 +26,4 @@ The API supports searching for products by name, description, or variant number.
   - npm install
 ## Running the Project
   - npm start (only need to run once nodemon present)
+## PostMan Collection also present in the same repo
